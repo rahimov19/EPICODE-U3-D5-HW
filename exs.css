@@ -1,0 +1,47 @@
+body {
+  width: 100%;
+  margin-inline: auto;
+}
+h1 {
+  text-align: center;
+}
+a {
+  color: aqua;
+}
+table {
+  border-radius: 10px;
+  border: 1px solid black;
+}
+td {
+  border-radius: 10px;
+  border: 1px solid green;
+}
+th {
+  border-radius: 10px;
+  border: 1px dotted red;
+}
+tr {
+  border-radius: 10px;
+  height: 10px;
+  border: 1px dotted blue;
+}
+img {
+  width: 25px;
+  aspect-ratio: 1/1;
+}
+p {
+  margin: 1em;
+}
+.fontClass {
+  font-size: 1.3em;
+  font-weight: 900;
+}
+.hideClass {
+  display: hidden;
+}
+.test {
+  background-color: black;
+}
+.visibility {
+  visibility: hidden;
+}
